@@ -63,7 +63,7 @@ This project presents an Exploratory Data Analysis (EDA) of the Diwali Sales dat
 
 ## 📸 Visualizations
 
-### Gender-wise Sales Analysis
+### purchasing power Sales Analysis
 
 ![purchasing power Analysis](pp-data.png)
 
@@ -71,7 +71,7 @@ This project presents an Exploratory Data Analysis (EDA) of the Diwali Sales dat
 
 ![Age Group Analysis](age-group.png)
 
-### State-wise Sales Analysis
+### occupation Analysis
 
 ![occupation Analysis](occupation-data.png)
 
